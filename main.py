@@ -1,7 +1,7 @@
 import pyautogui
 from time import sleep as s
 
-comment = input("What is the comment you want to send: ")
+comment = input("🔥ЧТО СО СТОРИС?🔥: ")
 howmanytimes = input("How many times do u want to comment: ")
 
 for i in range(int(howmanytimes)):
